@@ -1,2 +1,2 @@
-# tamedy-server
-Server for TAMEDY
+# tamedy
+TAMEDY Web Application
